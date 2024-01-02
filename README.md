@@ -1,7 +1,7 @@
 # TeachMeSkills_C26_Lesson_16_HW
 Homework for the sixteenth lesson
 
-Task_5:  
+**Task_5:**  
 Created a class to describe a customer (registration date, name, age)  
 Also the customer class contains a field-collection with orders of this customer - it is a kind of a shopping cart of customer's orders.  
 Order class contains fields for order description (price, product name)  
